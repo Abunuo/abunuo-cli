@@ -1,0 +1,17 @@
+{
+  "name": "abunuo-cli",
+  "version": "1.0.0",
+  "description": "abunuo-cli",
+  "main": "vite-create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite、cli"
+  ],
+  "author": "Abunuo",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Abunuo/abunuo-cli.git"
+  }
+}
